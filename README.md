@@ -1,1 +1,1 @@
-#WEBGL-interactive#Dprism
+#WEBGL-interactive3Dprism
